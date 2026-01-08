@@ -1,17 +1,21 @@
 # Data Science Portfolio
 
-## Skill Based Projects
+## End-to-End Projects
 
-### EDA
+### [Data Warehouse and Analytics Project](https://github.com/MohamedBadwy360/SQL-Data-Warehouse-Project)
+  
+  This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. This project involves:
+  * Data Architecture: Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.
+  * ETL Pipelines: Extracting, transforming, and loading data from source systems into the warehouse.
+  * Data Modeling: Developing fact and dimension tables optimized for analytical queries.
+  * Analytics & Reporting: Creating SQL-based reports and dashboards for actionable insights.
 
-* [Teleco_Customer_Churn_Data](https://github.com/MohamedBadwy360/Data-Science-Portoflio/tree/main/EDA/01.%20Teleco_Customer_Churn_Data) : Exploring the data of `WA_Fn-UseC_-Telco-Customer-Churn` using visualizing and manipulating libraries in Python.
-* [Students Performance in Exams](https://github.com/MohamedBadwy360/Data-Science-Portoflio/tree/main/EDA/02.%20Students_Performance_in_Exams) : Exploring the data of `StudentsPerformance` using visualizing and manipulating libraries in Python.
 
 ---
 
 ## Certificates
 
-* [Mcahine Learning Specialization - Coursera](https://www.coursera.org/account/accomplishments/specialization/XRZ2SVJVHGGN)
+* [Machine Learning Specialization - Coursera](https://www.coursera.org/account/accomplishments/specialization/XRZ2SVJVHGGN)
 * [Deep Learning Specialization - Coursera](https://www.coursera.org/account/accomplishments/specialization/82Y3TY9JK59L)
 * [DeepLearning.AI TensorFlow Developer Specialization - Coursera](https://www.coursera.org/account/accomplishments/professional-cert/U2KZ59JB7K35)
 * [Exploratory Data Analysis for Machine Learning - Coursera](https://www.coursera.org/account/accomplishments/verify/UMPLY7VW2J6Y)
