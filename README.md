@@ -1,8 +1,10 @@
 # Data Science Portfolio
 
-## End-to-End Projects
+## Skill-based Projects
 
-### [Data Warehouse and Analytics Project](https://github.com/MohamedBadwy360/SQL-Data-Warehouse-Project)
+### SQL & Databases
+
+#### [Data Warehouse and Analytics Project](https://github.com/MohamedBadwy360/SQL-Data-Warehouse-Project)
   
   This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. This project involves:
   * Data Architecture: Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.
