@@ -16,6 +16,12 @@
 
   **Tools:** `SQL Server Developer Edition`, `SQL Server Management Studio (SSMS)`, `Draw.io`, `Notion`, `Git Repository`. 
 
+---
+
+### Python (EDA)
+
+#### [Superstore Retail — Exploratory Data Analysis](https://github.com/MohamedBadwy360/superstore-exploratory-data-analysis)
+A comprehensive EDA on the [Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final) covering sales performance, profitability, customer behaviour, discount impact, and shipping patterns across the United States.
 
 ---
 
